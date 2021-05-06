@@ -22,19 +22,6 @@ const AnecdoteReader = (props) => {
   )
 }
 
-
-const MostPopular = (props) => {
-  let { anecdote } = props;
-
-  return (
-    <>
-    <p>{anecdote}</p>
-    </>
-  )
-}
-
-
-
 const App = () => {
   const [selected, setSelected] = useState(0);
   const [votes, updateVotes] = useState({
