@@ -3,7 +3,7 @@ Most optional exercises are completed -- as I've noted in my submission form. I'
 Forgive me if this entire repository seems quite sloppy (I copy and pasted projects into folders rather than pushing from the command line). I began Full Stack Open knowing much less than I do now about GitHub -- though GitHub is still a point of pain for me.
 <br/>
 <br/>
-## Part0: https://github.com/travisddraper/HelsinkiFullStack.git <br/>
+## <a href="https://github.com/travisddraper/HelsinkiFullStack.git">Part0: https://github.com/travisddraper/HelsinkiFullStack.git</a> <br/>
   0.4 Web Sequence Diagram <br/>
   0.5 Web Sequence Diagram ( single page app )<br/>
   0.6 Web Sequence Diagram ( New note ) <br/>
