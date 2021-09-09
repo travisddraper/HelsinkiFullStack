@@ -8,7 +8,7 @@ Forgive me if this entire repository seems quite sloppy (I copy and pasted proje
   0.5 Web Sequence Diagram ( single page app )<br/>
   0.6 Web Sequence Diagram ( New note ) <br/>
 
-## <a href="https://github.com/travisddraper/HelsinkiFullStack/tree/main/part1">Part2:</a> <br/>
+## <a href="https://github.com/travisddraper/HelsinkiFullStack/tree/main/part1">Part1:</a> <br/>
   Course Information<br/>
   Unicafe<br/>
   Anecdote<br/>
