@@ -1,4 +1,8 @@
 # HelsinkiFullStack<br/><br/>
+Most optional exercises are completed -- as I've noted in my submission form. I've added this directory for those places where old exercise code is expected to be changed for later exercise prompts, to add a little bit of guidance for whoever may manuever these files.<br/></br>
+Forgive me if this entire repository seems quite sloppy (I copy and pasted projects into folders rather than pushing from the command line). I began Full Stack Open knowing much less than I do now about GitHub -- though GitHub is still a point of pain for me.
+<br/>
+<br/>
 ## Part0:<br/>
   0.4 Web Sequence Diagram <br/>
   0.5 Web Sequence Diagram ( single page app )<br/>
