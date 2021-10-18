@@ -1,0 +1,27 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNhcHBoaXJlX0NhdCIsImlkIjoiNjBlYzkzZTlkNTIzNzEzMDkwOTQ0ZDZkIiwiaWF0IjoxNjI2MTE3MjM2fQ.ybdb6DxeD7fL0LpkRWl-7IKV8SO67JKE1xbFccjoAcA
+
+{
+    "title": "I'm a cat",
+    "url": "meow.com",
+    "likes": "2000"
+}
+
+###
+GET http://localhost:3003/api/blogs
+
+###
+PUT http://localhost:3003/api/blogs/60e8ed663464879c84a18ccf
+Content-Type: application/json
+
+{
+    "title": "This was updated",
+    "url": "ohno.com",
+    "likes": "20000"
+}
+
+###
+DELETE http://localhost:3003/api/blogs/60e8f23e66f5ae7ce886f351
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3NhIFlvdW5nIiwiaWQiOiI2MGU4Y2RmNGExNmNkYTk2ZDA3MTdmZDAiLCJpYXQiOjE2MjU4NzA5NjF9.tMuF6QCUINcNRdVEH4wan92AmKCrbBOENNeRYk-rM-Q
+
